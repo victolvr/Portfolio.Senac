@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/curriculo.css">
+    <style>
+        img {
+            width: 10%;
+            height: 10%;
+            border-radius: 20%;
+        }
+    </style>
+    <title>Victor Oliveira</title>
+</head>
+
+<body>
+    <div style="text-align: center;">
+        <h1>Victor Oliveira</h1>
+        <img src="imagens/WhatsApp Image 2024-09-10 at 19.39.14.jpeg" alt="Victor Oliveira" style="width: 20%; height: 45%; border-radius: 50%;">
+        <h3>Systems Analysis and Development Student</h3>
+        <hr>
+    </div>
+    
+    <div style="text-align: center;">
+        <a href="Sobremim.html" target="main">Sobre Mim - </a> 
+        <a href="Formacao.html" target="main">Formação - </a> 
+        <a href="Cursos.html" target="main">Cursos - </a>
+        <a href="Skills.html" target="main">Skills - </a>
+        <a href="Contato.html" target="main">Contato </a>
+    </div>
+    
+    <div style="text-align: left; width: 50%; margin: 0 auto;">
+        <h2>Cursos:</h2>
+        <ul>
+            <li><a>Atendimento ao Cliente; </a></li>
+            <li><a>Comunicação; </a></li>
+            <li><a>Design Gráfico; </a></li>
+            <li><a>Figma; </a></li>
+            <li><a>Gestão de tempo; </a></li>
+            <li><a>Microsoft Office; </a></li>
+            <li><a>Pró-atividade; </a></li>
+            <li><a>Resolução de problemas; </a></li>
+            <li><a>Programação; </a></li>
+            <li><a>Trabalho em equipe; </a></li>
+        </ul>
+        <hr>
+    </div>
+    
+</body>
